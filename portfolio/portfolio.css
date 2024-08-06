@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+header{
+    height:800px ;
+    width: 100%;
+    background-color:black;
+
+}
+.head{
+    display: flex;
+justify-content: space-evenly;
+}
+a{
+    color: rgb(190, 171, 146);
+text-decoration: none;
+padding-top: 10px;
+font-weight:bold;
+
+
+}
+#port{
+    padding-right: 300px;
+    font-size: 30px;
+    color: rgb(6, 110, 20);
+    letter-spacing: 5px;
+}
+#folio{
+    color: rgb(236, 222, 216);
+    font-size: 35px;
+}
+
+.bio{
+    padding-top: 220px;
+    padding-left: 60px;
+    margin: 20px;
+    font-size: 25px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+   
+}
+ span{
+    color: rgb(110, 33, 5);
+    font-family:  serif;
+ }
+p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+#image img{
+    display: block;
+    justify-content: right;
+}
+img{
+    width: 450px;
+    height: 350px;
+    border-radius:  5px;
+    padding-left: 200px;
+}
+button{
+    background-color: rgb(77, 5, 73);
+    color: #fdc500;
+    font-weight: bolder;
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-style: bold;
+    
+    
+    border: 2px solid rgb(32, 1, 27);
+   
+}
+
+main{
+    height: 650px;
+    width: 100%;
+    background-color:#fdc500;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+padding-top: 20px;
+margin-top: 30px;
+
+
+}
+ 
+.box1 img{
+    height: 250px;
+    width: 450px;
+   
+   }
+
+
+.box2 img{
+    height: 250px;
+    width: 450px;
+   }
+#names{
+    
+    border-radius: 10px;
+    background-color: rgb(15, 4, 77);
+   
+   padding-top: 40px;
+   padding-left: 30px;
+   padding-right: 40px;
+   padding-bottom: 40px;
+  margin-right: 40PX;
+   margin-left: 80px;
+   
+   font-size: 24px;
+   color: aqua;
+}
+  main h1 a{
+    color: rgb(7, 56, 99);
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+}
+section{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(99, 3, 67);
+}
+.links  {
+    display:flex;
+    justify-content: space-around;
+}
+section h1{
+    color: rgb(217, 226, 84);
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 5px;
+}
+section p{
+    color: rgb(10, 145, 21);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+#photo1 a{
+    color: black;
+    
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+#photo2 a{
+    
+    
+    color: black;
+    font-size: 50px;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icons{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(27, 26, 29);
+
+    
+    
+}
+  .icons i{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 40px;
+   margin-left: 60px;
+   
+    
+    font-size: 60px;
+   
+    color: aliceblue;
+    background-color: black;
+    width: 70px;
+    height: 90px;
+    padding: 10px;
+    border-radius: 25%;
+    
+    
+}
+.icons p{
+    margin-left: 20px;
+    color: rgb(228, 219, 208);
+    font-size: small;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.icons h2{
+    color: yellow;
+    display: flex;
+justify-content: center;
+padding: 20px;
+font-family: cursive;
+}
+#github{
+    color: rgb(165, 175, 17);
+    font-size: 30px;
+    padding-left: 40px;
+
+}
+
+
+footer{
+    background-color: rgb(10, 10, 9);
+    color: blueviolet;
+    width: 100%;
+    height: 250px;
+    
+    padding-top: 30px;
+    
+    
+    
+}
+footer h1{
+    display: flex;
+justify-content: center;
+    color:rgb(204, 150, 13) ;
+}
+footer p{
+    display: flex;
+justify-content: center;
+    color: rgb(167, 48, 4);
+}
+footer h2{
+    color: wheat;
+    padding-left: 10px;
+    padding-top: 10px;
+
+display: flex;
+justify-content: center;
+}
+h3{
+    margin-top: 20px;
+    letter-spacing: 10px;
+}
+
+
+ 
+
+
+
